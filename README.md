@@ -15,5 +15,5 @@ I became unable to use my Gists and the display says "Whoops" because I do not s
 Thanks,
 ```
 
-## css
-勉強中
+## MSEdge
+検証中
