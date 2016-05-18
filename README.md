@@ -1,8 +1,6 @@
-# test
-テスト用のリポジトリ
-
+# メモ帳
 メモ帳です。  
-わからなかったコードをメモ取るようなので答えはないです。
+わからなかったコードをメモ取る用なので答えはないです。
 
 ## ロボットだよと言われた時にすること
 contact supportへ書きを送る
@@ -14,6 +12,3 @@ I became unable to use my Gists and the display says "Whoops" because I do not s
 
 Thanks,
 ```
-
-## MSEdge
-検証中
